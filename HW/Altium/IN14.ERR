@@ -1,0 +1,15 @@
+Altium Designer System: Library Component Rule Check
+PCB File : IN14
+Date     : 5/26/2025
+Time     : 3:51:57 PM
+
+
+Name                Warnings
+------------------------------------------------------------------
+RTC_MODULE               Duplicate Pad Name On Pads Pad Free-NC(14.317mm,1.881mm) on Multi-Layer And Pad Free-NC(6.697mm,1.881mm) on Multi-Layer
+RTC_MODULE               Duplicate Pad Name On Pads Pad Free-14(6.684mm,-14.853mm) on Multi-Layer And Pad Free-14(11.764mm,-14.853mm) on Multi-Layer
+RTC_MODULE               Duplicate Pad Name On Pads Pad Free-14(9.224mm,-14.853mm) on Multi-Layer And Pad Free-14(11.764mm,-14.853mm) on Multi-Layer
+RTC_MODULE               Duplicate Pad Name On Pads Pad Free-14(14.304mm,-14.853mm) on Multi-Layer And Pad Free-14(11.764mm,-14.853mm) on Multi-Layer
+RTC_MODULE               Duplicate Pad Name On Pads Pad Free-NC(11.777mm,1.881mm) on Multi-Layer And Pad Free-NC(6.697mm,1.881mm) on Multi-Layer
+RTC_MODULE               Duplicate Pad Name On Pads Pad Free-NC(9.237mm,1.881mm) on Multi-Layer And Pad Free-NC(6.697mm,1.881mm) on Multi-Layer
+

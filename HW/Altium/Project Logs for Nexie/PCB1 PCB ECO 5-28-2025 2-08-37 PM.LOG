@@ -1,0 +1,95 @@
+Removed Member From Class: ClassName=Sheet1 Member=MD?
+Removed Member From Class: ClassName=Sheet2 Member=U?
+Change Component Comment : Designator=MD? Old Comment=DCF77 RC8000 New Comment=MINI 560 Lolino DC DC STEP-DOWN
+Added Component: Designator=C?(PNSC-CAP-10x20-P2)
+Add component (AddParameter): Name = "Capacitance"; Value = "470µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø10x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.alliedelec.com/images/products/datasheets/bm/Panasonic/70067776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Nov-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 10 mm, Body Length 20 mm, Pin Spacing 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAP-10x20-P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.alliedelec.com/images/products/datasheets/bm/Panasonic/70067776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Nov-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "530mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "NHG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Radial"; VariantName = "[No Variations]"
+Added Component: Designator=J?(SWITCH-RAPC712X-3_V)
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "RAPC7(1,2)2XSide
+
+RAPC7(1,2)2XTop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material - Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/391/rapc712x-cd-391666.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. A, 08/2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "SwitchcraftInc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "Barrel-PowerConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal Switch(s)"; Value = "SingleSwitch,NormallyClosed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Switchcraft"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.switchcraft.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "SC1539-ND
+-CONNPLUGMINIPWR2CONDBLK/RED
+SC1051-ND
+-CONNPLUGMINIPOWER2CONDBLACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole,RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions/Contacts"; Value = "2Conductors,2Contacts"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "Q2387461
+Q2526383
+RAPC712X-ND
+SC237"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plug/Mating Plug Diameter"; Value = "2.5mmID,5.5mmOD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Information"; Value = "SwitchcraftRoHSInfo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Unshielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "2,500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SolderEyelet(s)"; VariantName = "[No Variations]"
+Added Component: Designator=MD?(STEP_UP_180V)
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Change Class Name : Old Net Name=Sheet2 New Net Name=Power Supply
+Change Class Name : Old Net Name=Sheet3 New Net Name=Misc
+Added Class: Name=MCU
+Added Member To Class: ClassName=Power Supply Member=Component C? ECA-1HHG471
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Sheet1 Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=Power Supply Member=Component J? RAPC712X
+Added Member To Class: ClassName=Power Supply Member=Component MD? SZ3-1 QS30-1
+Added Member To Class: ClassName=Power Supply Member=Component MD? MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Misc Member=Component MD? DCF77 RC8000
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655

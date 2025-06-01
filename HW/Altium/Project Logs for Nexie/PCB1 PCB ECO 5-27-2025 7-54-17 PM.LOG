@@ -1,0 +1,55 @@
+Added Component: Designator=*(61300411121)
+Added Component: Designator=R?(EXCE-VT90N1)
+Add component (AddParameter): Name = "Dark Resistance"; Value = "200kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/VT90N1-Excelitas-datasheet-10388451.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Excelitas Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.excelitas.com/Pages/Index.aspx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "75°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Body Width 4.17 mm (Max), Height 2.29 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "VT90N1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Each"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "80mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance @ Lux"; Value = "12kohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Case Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "Cadmiumchloride(15-Jun-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Added Member To Class: ClassName=Sheet3 Member=Component * MICROWAVE SENSOR
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet1 Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=Sheet1 Member=Component MD? SZ3-1 QS30-1
+Added Member To Class: ClassName=Sheet2 Member=Component MD? ESP32-DevKitC V4
+Added Member To Class: ClassName=Sheet3 Member=Component MD? DCF77 RC8000
+Added Member To Class: ClassName=Sheet3 Member=Component MD? DS3231&AT24C32
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet3 Member=Component R? VT90N1
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655

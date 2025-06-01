@@ -1,0 +1,16 @@
+Added Component: Designator=N?(IN14)
+Added Component: Designator=N?(IN14)
+Added Component: Designator=N?(IN14)
+Added Component: Designator=N?(IN14)
+Added Component: Designator=N?(IN14)
+Added Component: Designator=N?(IN14)
+Added Pin To Net: NetName=NetN?_1 Pin=N?-1
+Added Pin To Net: NetName=NetN?_1 Pin=N?-3
+Added Net: Name=NetN?_1
+Added Member To Class: ClassName=Sheet1 Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14

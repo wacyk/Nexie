@@ -1,0 +1,217 @@
+Added Component: Designator=C2(FP-CC0805-0_85-MFG)
+Added Component: Designator=C3(FP-CC0805-0_85-MFG)
+Added Component: Designator=C4(FP-CC0805-0_85-MFG)
+Added Component: Designator=C5(FP-CC0805-0_85-MFG)
+Added Component: Designator=C6(FP-CC0805-0_85-MFG)
+Added Component: Designator=C7(FP-CC0805-0_85-MFG)
+Added Component: Designator=IC1(QFP80P1390X1390X235-44N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "HV5222PG-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/hv5222pg-g/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HV5222PG-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "689-HV5222PG-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/HV5222PG-G?qs=jjdktuRV%2Fgh6FkXzyQ9ehg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(QFP80P1390X1390X235-44N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "HV5222PG-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/hv5222pg-g/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en570722"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HV5222PG-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "689-HV5222PG-G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/HV5222PG-G?qs=jjdktuRV%2Fgh6FkXzyQ9ehg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(FP-PEC05DAAN-MFG)
+Added Component: Designator=J4(FP-PEC05DAAN-MFG)
+Added Component: Designator=J5(FP-PEC05DAAN-MFG)
+Added Component: Designator=N1(IN14)
+Added Component: Designator=N2(IN14)
+Added Component: Designator=N3(IN14)
+Added Component: Designator=N4(IN14)
+Added Component: Designator=N5(IN14)
+Added Component: Designator=N6(IN14)
+Added Component: Designator=Q1(VISH-TO-236-3_A_L)
+Added Component: Designator=R2(RESC3116X65X40ML10T20)
+Added Component: Designator=R3(RESC3116X65X40ML10T20)
+Added Component: Designator=R4(RESC3116X65X40ML10T20)
+Added Component: Designator=R5(RESC3116X65X40ML10T20)
+Added Component: Designator=R6(RESC3116X65X40ML10T20)
+Added Component: Designator=R7(RESC3116X65X40ML10T20)
+Added Component: Designator=R9(RESC3116X65X40ML10T20)
+Added Component: Designator=S1(SENS)
+Added Component: Designator=S2(SENS)
+Added Component: Designator=S3(SENS)
+Added Component: Designator=U1(ADA-RGB-1655_V)
+Added Component: Designator=U2(ADA-RGB-1655_V)
+Added Component: Designator=U3(ADA-RGB-1655_V)
+Added Component: Designator=U4(ADA-RGB-1655_V)
+Added Component: Designator=U5(ADA-RGB-1655_V)
+Added Component: Designator=U6(ADA-RGB-1655_V)
+Added Component: Designator=X1(4X1HEADER)
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Added Pin To Net: NetName=D_GND Pin=IC1-30
+Added Pin To Net: NetName=D_GND Pin=IC2-30
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-7
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J3-9
+Add Pin To Net: Unknown Pin: Pin J3-10
+Added Pin To Net: NetName=NetN1_1 Pin=N1-1
+Added Pin To Net: NetName=K1_1 Pin=N1-3
+Added Pin To Net: NetName=K1_2 Pin=N1-4
+Added Pin To Net: NetName=K1_3 Pin=N1-5
+Added Pin To Net: NetName=K1_4 Pin=N1-6
+Added Pin To Net: NetName=K1_5 Pin=N1-7
+Added Pin To Net: NetName=K1_6 Pin=N1-8
+Added Pin To Net: NetName=K1_7 Pin=N1-9
+Added Pin To Net: NetName=K1_8 Pin=N1-10
+Added Pin To Net: NetName=K1_9 Pin=N1-11
+Added Pin To Net: NetName=K1_0 Pin=N1-12
+Added Pin To Net: NetName=NetN2_1 Pin=N2-1
+Added Pin To Net: NetName=K2_1 Pin=N2-3
+Added Pin To Net: NetName=K2_2 Pin=N2-4
+Added Pin To Net: NetName=K2_3 Pin=N2-5
+Added Pin To Net: NetName=K2_4 Pin=N2-6
+Added Pin To Net: NetName=K2_5 Pin=N2-7
+Added Pin To Net: NetName=K2_6 Pin=N2-8
+Added Pin To Net: NetName=K2_6 Pin=N2-9
+Added Pin To Net: NetName=K2_6 Pin=N2-10
+Added Pin To Net: NetName=K2_9 Pin=N2-11
+Added Pin To Net: NetName=K2_0 Pin=N2-12
+Added Pin To Net: NetName=NetN3_1 Pin=N3-1
+Added Pin To Net: NetName=K3_1 Pin=N3-3
+Added Pin To Net: NetName=K3_2 Pin=N3-4
+Added Pin To Net: NetName=K3_3 Pin=N3-5
+Added Pin To Net: NetName=K3_4 Pin=N3-6
+Added Pin To Net: NetName=K3_5 Pin=N3-7
+Added Pin To Net: NetName=K3_6 Pin=N3-8
+Added Pin To Net: NetName=K3_7 Pin=N3-9
+Added Pin To Net: NetName=K3_8 Pin=N3-10
+Added Pin To Net: NetName=K3_9 Pin=N3-11
+Added Pin To Net: NetName=K3_0 Pin=N3-12
+Added Pin To Net: NetName=NetN4_1 Pin=N4-1
+Added Pin To Net: NetName=K4_1 Pin=N4-3
+Added Pin To Net: NetName=K4_2 Pin=N4-4
+Added Pin To Net: NetName=K4_3 Pin=N4-5
+Added Pin To Net: NetName=K4_4 Pin=N4-6
+Added Pin To Net: NetName=K4_5 Pin=N4-7
+Added Pin To Net: NetName=K4_6 Pin=N4-8
+Added Pin To Net: NetName=K4_7 Pin=N4-9
+Added Pin To Net: NetName=K4_8 Pin=N4-10
+Added Pin To Net: NetName=K4_9 Pin=N4-11
+Added Pin To Net: NetName=K4_0 Pin=N4-12
+Added Pin To Net: NetName=NetN5_1 Pin=N5-1
+Added Pin To Net: NetName=K5_1 Pin=N5-3
+Added Pin To Net: NetName=K5_2 Pin=N5-4
+Added Pin To Net: NetName=K5_3 Pin=N5-5
+Added Pin To Net: NetName=K5_4 Pin=N5-6
+Added Pin To Net: NetName=K5_5 Pin=N5-7
+Added Pin To Net: NetName=K5_6 Pin=N5-8
+Added Pin To Net: NetName=K5_7 Pin=N5-9
+Added Pin To Net: NetName=K5_8 Pin=N5-10
+Added Pin To Net: NetName=K5_9 Pin=N5-11
+Added Pin To Net: NetName=K5_0 Pin=N5-12
+Added Pin To Net: NetName=NetN6_1 Pin=N6-1
+Added Pin To Net: NetName=K6_1 Pin=N6-3
+Added Pin To Net: NetName=K6_2 Pin=N6-4
+Added Pin To Net: NetName=K6_3 Pin=N6-5
+Added Pin To Net: NetName=K6_4 Pin=N6-6
+Added Pin To Net: NetName=K6_5 Pin=N6-7
+Added Pin To Net: NetName=K6_6 Pin=N6-8
+Added Pin To Net: NetName=K6_7 Pin=N6-9
+Added Pin To Net: NetName=K6_8 Pin=N6-10
+Added Pin To Net: NetName=K6_9 Pin=N6-11
+Added Pin To Net: NetName=K6_0 Pin=N6-12
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Class Member: Failed to add class member : Component C2 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C3 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C4 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C5 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C6 CC0805KRX7R9BB104
+Add Class Member: Failed to add class member : Component C7 CC0805KRX7R9BB104
+Added Member To Class: ClassName=Display Member=Component IC1 HV5222PG-G
+Added Member To Class: ClassName=Display Member=Component IC2 HV5222PG-G
+Add Class Member: Failed to add class member : Component J3 PEC05DAAN
+Add Class Member: Failed to add class member : Component J4 PEC05DAAN
+Add Class Member: Failed to add class member : Component J5 PEC05DAAN
+Added Member To Class: ClassName=Display Member=Component N1 IN14
+Added Member To Class: ClassName=Display Member=Component N2 IN14
+Added Member To Class: ClassName=Display Member=Component N3 IN14
+Added Member To Class: ClassName=Display Member=Component N4 IN14
+Added Member To Class: ClassName=Display Member=Component N5 IN14
+Added Member To Class: ClassName=Display Member=Component N6 IN14
+Add Class Member: Failed to add class member : Component Q1 2N7002
+Add Class Member: Failed to add class member : Component R2 RC1206FR-07100KL
+Add Class Member: Failed to add class member : Component R3 RC1206FR-07100KL
+Add Class Member: Failed to add class member : Component R4 RC1206FR-07100KL
+Add Class Member: Failed to add class member : Component R5 RC1206FR-07100KL
+Add Class Member: Failed to add class member : Component R6 RC1206FR-07100KL
+Add Class Member: Failed to add class member : Component R7 RC1206FR-07100KL
+Add Class Member: Failed to add class member : Component R9 10
+Added Member To Class: ClassName=Display Member=Component S1 TOUCHPAD
+Added Member To Class: ClassName=Display Member=Component S2 TOUCHPAD
+Added Member To Class: ClassName=Display Member=Component S3 TOUCHPAD
+Add Class Member: Failed to add class member : Component U1 1655
+Add Class Member: Failed to add class member : Component U2 1655
+Add Class Member: Failed to add class member : Component U3 1655
+Add Class Member: Failed to add class member : Component U4 1655
+Add Class Member: Failed to add class member : Component U5 1655
+Add Class Member: Failed to add class member : Component U6 1655
+Added Member To Class: ClassName=Display Member=Component X1 X?

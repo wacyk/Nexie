@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=K2_6 Pin=IC1-36
+Removed Pin From Net: NetName=K2_6 Pin=IC1-37
+Removed Pin From Net: NetName=K2_1 Pin=N2-3
+Removed Pin From Net: NetName=K2_2 Pin=N2-4
+Removed Pin From Net: NetName=K2_3 Pin=N2-5
+Removed Pin From Net: NetName=K2_4 Pin=N2-6
+Removed Pin From Net: NetName=K2_5 Pin=N2-7
+Removed Pin From Net: NetName=K2_6 Pin=N2-8
+Removed Pin From Net: NetName=K2_6 Pin=N2-9
+Removed Pin From Net: NetName=K2_6 Pin=N2-10
+Removed Pin From Net: NetName=K2_9 Pin=N2-11
+Removed Pin From Net: NetName=K2_0 Pin=N2-12
+Added Pin To Net: NetName=K2_7 Pin=IC1-37
+Added Net: Name=K2_7
+Added Pin To Net: NetName=K2_8 Pin=IC1-36
+Added Net: Name=K2_8

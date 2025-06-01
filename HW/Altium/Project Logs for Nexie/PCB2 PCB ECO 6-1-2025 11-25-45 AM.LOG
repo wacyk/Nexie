@@ -1,0 +1,6 @@
+Change Physical Footprint: Designator=MD2 Old Footprint=MINI 560 Lolino DC DC STEP-DOWN New Footprint=MINI 560 Lolino DC DC STEP-DOWN
+Change Physical Footprint: Designator=MD3 Old Footprint=MINI 560 Lolino DC DC STEP-DOWN New Footprint=MINI 560 Lolino DC DC STEP-DOWN
+Change Physical Footprint: Designator=MD4 Old Footprint=STEP_UP_180V New Footprint=STEP_UP_180V
+Change Physical Footprint: Designator=MD5 Old Footprint=DS3231_MODULE New Footprint=DS3231_MODULE
+Change Physical Footprint: Designator=MD7 Old Footprint=INMP441_i2s_microphone_module New Footprint=INMP441_i2s_microphone_module
+Change Physical Footprint: Designator=MD9 Old Footprint=SDCARD_CONN New Footprint=SDCARD_CONN

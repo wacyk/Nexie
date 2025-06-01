@@ -1,0 +1,56 @@
+Added Component: Designator=C?(PNSC-CAP-10x20-P2)
+Add component (AddParameter): Name = "Capacitance"; Value = "470µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Size/Dimension"; Value = "Ø10x20mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.alliedelec.com/images/products/datasheets/bm/Panasonic/70067776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Nov-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime@Temperature"; Value = "2000Hrs@105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.panasonic.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp Range"; Value = "-55to+105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temp-Max"; Value = "105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Dia 10 mm, Body Length 20 mm, Pin Spacing 5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "CAP-10x20-P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "http://www.alliedelec.com/images/products/datasheets/bm/Panasonic/70067776.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "Nov-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "530mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "NHG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Radial"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Change Class Name : Old Net Name=MCU New Net Name=Power Supply
+Added Class: Name=MCU
+Added Member To Class: ClassName=Power Supply Member=Component C? ECA-1HHG471
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Sheet1 Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=Power Supply Member=Component J? RAPC712X
+Added Member To Class: ClassName=Power Supply Member=Component MD? MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Power Supply Member=Component MD? MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Misc Member=Component MD? DCF77 RC8000
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655

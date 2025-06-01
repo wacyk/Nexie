@@ -1,0 +1,119 @@
+Added Component: Designator=*(MAGNETIC ANTENA)
+Added Component: Designator=C1(FP-FKG-MFG)
+Added Component: Designator=D1(FP-95402-MFG)
+Added Component: Designator=F1(FP-microSMD-MFG)
+Added Component: Designator=F2(FP-microSMD-MFG)
+Added Component: Designator=F3(FP-microSMD-MFG)
+Added Component: Designator=J1(SWITCH-RAPC712X-3_V)
+Added Component: Designator=J2(FP-PEC05DAAN-MFG)
+Added Component: Designator=J?(FP-PEC05DAAN-MFG)
+Added Component: Designator=J?(FP-PEC05DAAN-MFG)
+Added Component: Designator=J?(FP-PEC05DAAN-MFG)
+Added Component: Designator=MD1(FP-ESP32-DevKitC_V4-MFG)
+Added Component: Designator=MD2(MINI 560 Lolino DC DC STEP-DOWN)
+Added Component: Designator=MD3(MINI 560 Lolino DC DC STEP-DOWN)
+Added Component: Designator=MD4(STEP_UP_180V)
+Added Component: Designator=MD?(DS3231_MODULE)
+Added Component: Designator=MD?(DFC77_MODULE)
+Added Component: Designator=MD?(INMP441_i2s_microphone_module)
+Added Component: Designator=MD?(SDCARD_CONN)
+Added Component: Designator=MD?(MAX98357)
+Added Component: Designator=P?(61300211121)
+Added Component: Designator=R1(EXCE-VT90N1)
+Added Component: Designator=R?(RESC3116X65X40ML10T20)
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Added Pin To Net: NetName=GND Pin=MD2-GND_IN
+Added Pin To Net: NetName=GND Pin=MD2-GND_IN
+Added Pin To Net: NetName=GND Pin=MD2-GND_OUT
+Added Pin To Net: NetName=GND Pin=MD2-GND_OUT
+Added Pin To Net: NetName=GND Pin=MD3-GND_IN
+Added Pin To Net: NetName=GND Pin=MD3-GND_IN
+Added Pin To Net: NetName=GND Pin=MD3-GND_OUT
+Added Pin To Net: NetName=GND Pin=MD3-GND_OUT
+Added Pin To Net: NetName=GND Pin=MD4-GND
+Added Pin To Net: NetName=GND Pin=MD4-HGND
+Added Pin To Net: NetName=GND Pin=MD?-GND
+Added Pin To Net: NetName=GND Pin=MD?-GND
+Added Pin To Net: NetName=GND Pin=MD?-GND
+Added Pin To Net: NetName=GND Pin=MD?-GND
+Added Pin To Net: NetName=GND Pin=MD?-GND
+Added Pin To Net: NetName=GND Pin=MD?-SHIELD
+Added Pin To Net: NetName=GND Pin=MD?-SHIELD
+Added Pin To Net: NetName=GND Pin=MD?-SHIELD
+Added Pin To Net: NetName=GND Pin=MD?-SHIELD
+Added Pin To Net: NetName=GND Pin=MD?-SHIELD
+Added Pin To Net: NetName=GND Pin=MD?-SHIELD
+Added Pin To Net: NetName=GND Pin=MD?-SHIELD
+Added Net: Name=GND
+Added Pin To Net: NetName=NetF1_2 Pin=MD2-IN
+Added Pin To Net: NetName=NetF1_2 Pin=MD2-IN
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetF2_2 Pin=MD3-IN
+Added Pin To Net: NetName=NetF2_2 Pin=MD3-IN
+Added Net: Name=NetF2_2
+Added Net: Name=NetMD1_13
+Added Net: Name=NetMD1_26
+Added Pin To Net: NetName=NetMD?_CLK Pin=MD?-CLK
+Added Net: Name=NetMD?_CLK
+Added Pin To Net: NetName=NetMD?_CMD Pin=MD?-CMD
+Added Net: Name=NetMD?_CMD
+Added Pin To Net: NetName=NetMD?_D0 Pin=MD?-D0
+Added Net: Name=NetMD?_D0
+Added Pin To Net: NetName=NetMD?_D1 Pin=MD?-D1
+Added Net: Name=NetMD?_D1
+Added Pin To Net: NetName=NetMD?_D2 Pin=MD?-D2
+Added Net: Name=NetMD?_D2
+Added Pin To Net: NetName=NetMD?_D3 Pin=MD?-D3
+Added Net: Name=NetMD?_D3
+Added Pin To Net: NetName=NetMD?_OUT Pin=MD?-OUT
+Added Net: Name=NetMD?_OUT
+Added Pin To Net: NetName=NetMD?_PON Pin=MD?-PON
+Added Net: Name=NetMD?_PON
+Added Pin To Net: NetName=NetMD?_SCL Pin=MD?-SCL
+Added Net: Name=NetMD?_SCL
+Added Pin To Net: NetName=NetMD?_SDA Pin=MD?-SDA
+Added Net: Name=NetMD?_SDA
+Added Pin To Net: NetName=NetMD?_SPK+ Pin=MD?-SPK+
+Added Net: Name=NetMD?_SPK+
+Added Pin To Net: NetName=NetMD?_SPK- Pin=MD?-SPK-
+Added Net: Name=NetMD?_SPK-
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=VCC Pin=MD3-OUT
+Added Pin To Net: NetName=VCC Pin=MD3-OUT
+Added Pin To Net: NetName=VCC Pin=MD?-VCC
+Added Pin To Net: NetName=VCC Pin=MD?-VCC
+Added Pin To Net: NetName=VCC Pin=MD?-VDD
+Added Pin To Net: NetName=VCC Pin=MD?-VDD
+Added Pin To Net: NetName=VCC Pin=MD?-VDD
+Added Net: Name=VCC
+Added Member To Class: ClassName=Misc Member=Component * MAGNETIC ANTENA
+Add Class Member: Failed to add class member : Component C1 EEE-FK1E471P
+Add Class Member: Failed to add class member : Component D1 SS34-E3/57T
+Add Class Member: Failed to add class member : Component F1 MICROSMD050F-2
+Add Class Member: Failed to add class member : Component F2 MICROSMD050F-2
+Add Class Member: Failed to add class member : Component F3 MICROSMD050F-2
+Add Class Member: Failed to add class member : Component J1 RAPC712X
+Add Class Member: Failed to add class member : Component J2 PEC05DAAN
+Added Member To Class: ClassName=Display Member=Component J? PEC05DAAN
+Added Member To Class: ClassName=Display Member=Component J? PEC05DAAN
+Added Member To Class: ClassName=Misc Member=Component J? PEC05DAAN
+Added Member To Class: ClassName=Misc Member=Component J? PEC05DAAN
+Add Class Member: Failed to add class member : Component MD1 ESP32-DevKitC V4
+Added Member To Class: ClassName=Power Supply Member=Component MD2 MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Power Supply Member=Component MD3 MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Power Supply Member=Component MD4 SZ3-1 QS30-1
+Added Member To Class: ClassName=Misc Member=Component MD? DS3231&AT24C32
+Added Member To Class: ClassName=Misc Member=Component MD? DCF77 RC8000
+Added Member To Class: ClassName=Misc Member=Component MD? INMP441
+Added Member To Class: ClassName=Misc Member=Component MD? SDCARD_CON
+Added Member To Class: ClassName=Misc Member=Component MD? MAX98357
+Add Class Member: Failed to add class member : Component P? SPEAKER
+Add Class Member: Failed to add class member : Component R1 VT90N1
+Add Class Member: Failed to add class member : Component R? TOBECALC
+Added Member To Class: ClassName=Display Member=Component S? TOUCHPAD
+Added Member To Class: ClassName=Display Member=Component S? TOUCHPAD
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

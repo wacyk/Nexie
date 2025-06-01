@@ -1,0 +1,36 @@
+Change Component Comment : Designator=MD? Old Comment=MINI 560 Lolino DC DC STEP-DOWN New Comment=DCF77 RC8000
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Sheet1 Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=MCU Member=Component MD? ESP32-DevKitC V4
+Added Member To Class: ClassName=Misc Member=Component MD? DS3231&AT24C32
+Added Member To Class: ClassName=Misc Member=Component MD? DCF77 RC8000
+Added Member To Class: ClassName=Power Supply Member=Component MD? SZ3-1 QS30-1
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655

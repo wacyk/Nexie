@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=C?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=C?-2
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-1
+Removed Pin From Net: NetName=NetC?_2 Pin=U?-3
+Removed Pin From Net: NetName=NetU?_2 Pin=U?-4
+Change Component Footprint: Designator=M? Old Footprint=RTC_MODULE New Footprint=INMP441_i2s_microphone_module
+Change Component Comment : Designator=M? Old Comment=DCF77 RC8000 New Comment=INMP441
+Added Component: Designator=MD?(DS3231_MODULE)
+Added Component: Designator=MD?(DFC77_MODULE)
+Added Component: Designator=MD?(STEP_UP_180V)
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=U?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U?-3
+Added Pin To Net: NetName=NetU?_2 Pin=U?-4
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Change Class Name : Old Net Name=Sheet2 New Net Name=Sheet3
+Added Class: Name=Sheet2
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet3 Member=Component C? 100n
+Added Member To Class: ClassName=Sheet1 Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=Sheet1 Member=Component MD? SZ3-1 QS30-1
+Added Member To Class: ClassName=Sheet3 Member=Component MD? DS3231&AT24C32
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet1 Member=Component N? IN14
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655
+Added Member To Class: ClassName=Sheet3 Member=Component U? 1655

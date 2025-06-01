@@ -1,0 +1,51 @@
+Added Component: Designator=*(MAX98357)
+Added Component: Designator=*(MAGNETIC ANTENA)
+Added Component: Designator=*(SDCARD_CONN)
+Added Component: Designator=M?(INMP441_i2s_microphone_module)
+Added Component: Designator=MD?(STEP_UP_180V)
+Added Component: Designator=MD?(MINI 560 Lolino DC DC STEP-DOWN)
+Added Component: Designator=MD?(DS3231_MODULE)
+Added Component: Designator=MD?(MINI 560 Lolino DC DC STEP-DOWN)
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Added Member To Class: ClassName=Misc Member=Component * MAGNETIC ANTENA
+Added Member To Class: ClassName=Misc Member=Component * MAX98357
+Added Member To Class: ClassName=Misc Member=Component * MICROWAVE SENSOR
+Added Member To Class: ClassName=Misc Member=Component * SDCARD_CON
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Power Supply Member=Component F? MICROSMD050F-2
+Added Member To Class: ClassName=Power Supply Member=Component F? MICROSMD050F-2
+Added Member To Class: ClassName=Display Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=Misc Member=Component M? INMP441
+Added Member To Class: ClassName=MCU Member=Component MD? ESP32-DevKitC V4
+Added Member To Class: ClassName=Misc Member=Component MD? DS3231&AT24C32
+Added Member To Class: ClassName=Misc Member=Component MD? DCF77 RC8000
+Added Member To Class: ClassName=Power Supply Member=Component MD? MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Power Supply Member=Component MD? SZ3-1 QS30-1
+Added Member To Class: ClassName=Power Supply Member=Component MD? MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655

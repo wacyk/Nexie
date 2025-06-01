@@ -1,0 +1,146 @@
+Change Component Footprint: Designator=R? Old Footprint=RESC1608X55N New Footprint=EXCE-VT90N1
+Change Component Comment : Designator=R? Old Comment= New Comment=VT90N1
+Change Component Designator: OldDesignator=C?_1 NewDesignator=C?
+Change Managed Component Library Link : Designator=R? Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=F4433DA4-3813-4AA5-850F-0C6D1424114D Old RevisionGUID= New RevisionGUID=E869892E-7DE8-44ED-BBB4-012345306B6E
+Change component parameters: Designator = "R?" ("R?"); Footprint = "RESC1608X55N"; UniqueID = "\KYFXISXQ" ("\KYFXISXQ")
+Change component parameters (AddParameter): Name = "Dark Resistance"; Value = "200kohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/VT90N1-Excelitas-datasheet-10388451.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "09/2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Excelitas Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.excelitas.com/Pages/Index.aspx"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "75°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Body Width 4.17 mm (Max), Height 2.29 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "VT90N1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Each"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "80mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance @ Lux"; Value = "12kohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Case Style"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "Cadmiumchloride(15-Jun-2015)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=F?(FP-microSMD-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_microsmd_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "40A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "PTC Resettable Fuses"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "PTC RESET FUSE 13.2V 500MA 1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.62mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "0.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MICROSMD050F-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/microsmd050f-2-littelfuse-74214982"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "microSMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.25-0.9O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Time"; Value = "0.05s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.25-0.9O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "13.2V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FP-PEC05DAAN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.23inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5.08mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(FP-PEC05DAAN-MFG)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.23inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Plastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_1" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetC?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Add Net: Net with name "NetU?_2" already exists
+Added Member To Class: ClassName=Misc Member=Component * MICROWAVE SENSOR
+Added Member To Class: ClassName=Misc Member=Component * SDCARD_CON
+Added Member To Class: ClassName=Misc Member=Component * MAGNETIC ANTENA
+Added Member To Class: ClassName=Misc Member=Component * MAX98357
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Misc Member=Component C? 100n
+Added Member To Class: ClassName=Power Supply Member=Component C? EEE-FK1E471P
+Added Member To Class: ClassName=Power Supply Member=Component D? SS34-E3/57T
+Added Member To Class: ClassName=Power Supply Member=Component F? MICROSMD050F-2
+Added Member To Class: ClassName=Power Supply Member=Component F? MICROSMD050F-2
+Added Member To Class: ClassName=Power Supply Member=Component F? MICROSMD050F-2
+Added Member To Class: ClassName=Display Member=Component IC? HV5222PG-G
+Added Member To Class: ClassName=Misc Member=Component J? PEC05DAAN
+Added Member To Class: ClassName=Misc Member=Component J? PEC05DAAN
+Added Member To Class: ClassName=Power Supply Member=Component J? RAPC712X
+Added Member To Class: ClassName=Misc Member=Component M? INMP441
+Added Member To Class: ClassName=MCU Member=Component MD? ESP32-DevKitC V4
+Added Member To Class: ClassName=Misc Member=Component MD? DCF77 RC8000
+Added Member To Class: ClassName=Misc Member=Component MD? DS3231&AT24C32
+Added Member To Class: ClassName=Power Supply Member=Component MD? SZ3-1 QS30-1
+Added Member To Class: ClassName=Power Supply Member=Component MD? MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Power Supply Member=Component MD? MINI 560 Lolino DC DC STEP-DOWN
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Display Member=Component N? IN14
+Added Member To Class: ClassName=Misc Member=Component R? VT90N1
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655
+Added Member To Class: ClassName=Misc Member=Component U? 1655

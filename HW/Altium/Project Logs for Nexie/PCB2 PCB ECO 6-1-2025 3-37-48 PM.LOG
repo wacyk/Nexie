@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=NetMD4_SHDN Pin=Q?-3
+Removed Member From Class: ClassName=Misc Member=J2
+Removed Member From Class: ClassName=Power Supply Member=Q?
+Removed Member From Class: ClassName=Misc Member=R?
+Removed Member From Class: ClassName=Power Supply Member=R?
+Change Component Comment : Designator=MD3 Old Comment=MINI 560 Lolino DC DC STEP-DOWN New Comment=MINI 560 Lolino DC DC STEP-DOWN 3V3
+Change Component Comment : Designator=MD2 Old Comment=MINI 560 Lolino DC DC STEP-DOWN New Comment=MINI 560 Lolino DC DC STEP-DOWN 5V
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Added Component: Designator=Q1(VISH-TO-236-3_A_L)
+Added Pin To Net: NetName=NetC1_2 Pin=F1-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J2-8
+Added Pin To Net: NetName=GND Pin=MD1-14
+Added Pin To Net: NetName=GND Pin=MD1-32
+Added Pin To Net: NetName=GND Pin=MD1-38
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Added Pin To Net: NetName=VCC Pin=R8-2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR9_2
+Added Pin To Net: NetName=+5V Pin=J2-5
+Added Pin To Net: NetName=+5V Pin=J2-6
+Added Pin To Net: NetName=+5V Pin=MD1-19
+Added Pin To Net: NetName=+5V Pin=MD2-OUT
+Added Pin To Net: NetName=+5V Pin=MD2-OUT
+Added Net: Name=+5V
+Added Pin To Net: NetName=+170V Pin=J2-1
+Added Pin To Net: NetName=+170V Pin=J2-2
+Added Pin To Net: NetName=+170V Pin=MD4-HV
+Added Net: Name=+170V
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=MD2-IN
+Added Pin To Net: NetName=NetF1_2 Pin=MD2-IN
+Added Net: Name=NetF1_2
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetMD9_D0 Pin=MD9-D0
+Added Net: Name=NetMD9_D0
+Added Pin To Net: NetName=NetQ1_1 Pin=R9-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R8-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=Power Supply Member=Component J2 PEC05DAAN
+Add Class Member: Failed to add class member : Component Q1 2N7002
+Added Member To Class: ClassName=Power Supply Member=Component R9 10
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
