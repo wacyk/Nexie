@@ -1,0 +1,171 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Added Component: Designator=*(MAGNETIC ANTENA)
+Added Component: Designator=C1(FP-FKG-MFG)
+Added Component: Designator=D1(FP-95402-MFG)
+Added Component: Designator=F1(FP-microSMD-MFG)
+Added Component: Designator=F2(FP-microSMD-MFG)
+Added Component: Designator=F3(FP-microSMD-MFG)
+Added Component: Designator=J1(SWITCH-RAPC712X-3_V)
+Added Component: Designator=J2(FP-PEC05DAAN-MFG)
+Added Component: Designator=J4(FP-PEC05DAAN-MFG)
+Added Component: Designator=MD1(FP-ESP32-DevKitC_V4-MFG)
+Added Component: Designator=MD2(MINI 560 Lolino DC DC STEP-DOWN)
+Added Component: Designator=MD3(MINI 560 Lolino DC DC STEP-DOWN)
+Added Component: Designator=MD4(STEP_UP_180V)
+Added Component: Designator=MD5(DS3231_MODULE)
+Added Component: Designator=MD6(DFC77_MODULE)
+Added Component: Designator=MD7(INMP441_i2s_microphone_module)
+Added Component: Designator=MD8(MAX98357)
+Added Component: Designator=MD9(SDCARD_CONN)
+Added Component: Designator=P1(61300211121)
+Added Component: Designator=Q1(FP-2N7002-G-IPC_C)
+Added Component: Designator=R1(EXCE-VT90N1)
+Added Component: Designator=R8(RESC3116X65X40ML10T20)
+Added Component: Designator=R9(RESC3116X65X40ML10T20)
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Added Pin To Net: NetName=GND Pin=*-SHIELD
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin F2-1
+Add Pin To Net: Unknown Pin: Pin F3-2
+Added Pin To Net: NetName=DP_GND Pin=IC1-30
+Added Pin To Net: NetName=DP_GND Pin=IC2-30
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-10
+Add Pin To Net: Unknown Pin: Pin MD1-14
+Add Pin To Net: Unknown Pin: Pin MD1-19
+Add Pin To Net: Unknown Pin: Pin MD1-32
+Add Pin To Net: Unknown Pin: Pin MD1-38
+Added Pin To Net: NetName=GND Pin=MD2-GND_IN
+Added Pin To Net: NetName=GND Pin=MD2-GND_IN
+Added Pin To Net: NetName=GND Pin=MD2-GND_OUT
+Added Pin To Net: NetName=GND Pin=MD2-GND_OUT
+Added Pin To Net: NetName=NetF1_2 Pin=MD2-IN
+Added Pin To Net: NetName=NetF1_2 Pin=MD2-IN
+Added Pin To Net: NetName=+5V Pin=MD2-OUT
+Added Pin To Net: NetName=+5V Pin=MD2-OUT
+Added Pin To Net: NetName=GND Pin=MD3-GND_IN
+Added Pin To Net: NetName=GND Pin=MD3-GND_IN
+Added Pin To Net: NetName=GND Pin=MD3-GND_OUT
+Added Pin To Net: NetName=GND Pin=MD3-GND_OUT
+Added Pin To Net: NetName=VCC Pin=MD3-OUT
+Added Pin To Net: NetName=VCC Pin=MD3-OUT
+Added Pin To Net: NetName=GND Pin=MD4-GND
+Added Pin To Net: NetName=GND Pin=MD4-HGND
+Added Pin To Net: NetName=+170V Pin=MD4-HV
+Added Pin To Net: NetName=NetMD4_SHDN Pin=MD4-SHDN
+Added Pin To Net: NetName=NetF3_2 Pin=MD4-VDD
+Added Pin To Net: NetName=GND Pin=MD5-GND
+Added Pin To Net: NetName=NetMD5_SCL Pin=MD5-SCL
+Added Pin To Net: NetName=NetMD5_SDA Pin=MD5-SDA
+Added Pin To Net: NetName=GND Pin=MD5-SHIELD
+Added Pin To Net: NetName=GND Pin=MD5-SHIELD
+Added Pin To Net: NetName=GND Pin=MD5-SHIELD
+Added Pin To Net: NetName=VCC Pin=MD5-VCC
+Added Pin To Net: NetName=GND Pin=MD6-GND
+Added Pin To Net: NetName=NetMD6_OUT Pin=MD6-OUT
+Added Pin To Net: NetName=NetMD6_PON Pin=MD6-PON
+Added Pin To Net: NetName=VCC Pin=MD6-VDD
+Added Pin To Net: NetName=GND Pin=MD7-GND
+Added Pin To Net: NetName=VCC Pin=MD7-VDD
+Added Pin To Net: NetName=GND Pin=MD8-GND
+Added Pin To Net: NetName=GND Pin=MD8-SHIELD
+Added Pin To Net: NetName=GND Pin=MD8-SHIELD
+Added Pin To Net: NetName=NetMD8_SPK+ Pin=MD8-SPK+
+Added Pin To Net: NetName=NetMD8_SPK- Pin=MD8-SPK-
+Added Pin To Net: NetName=VCC Pin=MD8-VDD
+Added Pin To Net: NetName=NetMD9_CLK Pin=MD9-CLK
+Added Pin To Net: NetName=NetMD9_CMD Pin=MD9-CMD
+Added Pin To Net: NetName=NetMD9_D0 Pin=MD9-D0
+Added Pin To Net: NetName=NetMD9_D1 Pin=MD9-D1
+Added Pin To Net: NetName=NetMD9_D2 Pin=MD9-D2
+Added Pin To Net: NetName=NetMD9_D3 Pin=MD9-D3
+Added Pin To Net: NetName=GND Pin=MD9-GND
+Added Pin To Net: NetName=GND Pin=MD9-SHIELD
+Added Pin To Net: NetName=GND Pin=MD9-SHIELD
+Added Pin To Net: NetName=VCC Pin=MD9-VCC
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ4_1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R15-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R14-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R16-2
+Added Net: Name=NetQ5_1
+Added Member To Class: ClassName=Misc Member=Component * MAGNETIC ANTENA
+Add Class Member: Failed to add class member : Component C1 EEE-FK1E471P
+Added Member To Class: ClassName=Display Member=Component C8 100nF
+Add Class Member: Failed to add class member : Component D1 SS34-E3/57T
+Add Class Member: Failed to add class member : Component F1 MICROSMD050F-2
+Add Class Member: Failed to add class member : Component F2 MICROSMD050F-2
+Add Class Member: Failed to add class member : Component F3 MICROSMD050F-2
+Add Class Member: Failed to add class member : Component J1 RAPC712X
+Add Class Member: Failed to add class member : Component J2 PEC05DAAN
+Add Class Member: Failed to add class member : Component J4 PEC05DAAN
+Add Class Member: Failed to add class member : Component MD1 ESP32-DevKitC V4
+Added Member To Class: ClassName=Power Supply Member=Component MD2 MINI 560 Lolino DC DC STEP-DOWN 5V
+Added Member To Class: ClassName=Power Supply Member=Component MD3 MINI 560 Lolino DC DC STEP-DOWN 3V3
+Added Member To Class: ClassName=Power Supply Member=Component MD4 SZ3-1 QS30-1
+Added Member To Class: ClassName=Misc Member=Component MD5 DS3231&AT24C32
+Added Member To Class: ClassName=Misc Member=Component MD6 DCF77 RC8000
+Added Member To Class: ClassName=Misc Member=Component MD7 INMP441
+Added Member To Class: ClassName=Misc Member=Component MD8 MAX98357
+Added Member To Class: ClassName=Misc Member=Component MD9 SDCARD_CON
+Add Class Member: Failed to add class member : Component P1 61300211121
+Add Class Member: Failed to add class member : Component Q1 2N7002-G
+Added Member To Class: ClassName=Display Member=Component Q2 SMBT2222A
+Added Member To Class: ClassName=Display Member=Component Q3 SMBT2222A
+Added Member To Class: ClassName=Display Member=Component Q4 SMBT2222A
+Added Member To Class: ClassName=Display Member=Component Q5 SMBT2222A
+Add Class Member: Failed to add class member : Component R1 VT90N1
+Add Class Member: Failed to add class member : Component R8 RC1206FR-07100KL
+Add Class Member: Failed to add class member : Component R9 10
+Added Member To Class: ClassName=Display Member=Component R10 1K
+Added Member To Class: ClassName=Display Member=Component R11 1K
+Added Member To Class: ClassName=Display Member=Component R13 1K
+Added Member To Class: ClassName=Display Member=Component R14 10k
+Added Member To Class: ClassName=Display Member=Component R15 10k
+Added Member To Class: ClassName=Display Member=Component R16 10k
+Added Member To Class: ClassName=Display Member=Component R17 10k

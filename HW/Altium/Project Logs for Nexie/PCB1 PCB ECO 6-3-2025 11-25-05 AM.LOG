@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=NetJ5_5 Pin=R?-1
+Added Pin To Net: NetName=NetJ5_6 Pin=R?-1
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Add Net: Net with name "NetQ?_1" already exists
+Added Member To Class: ClassName=Display Member=Component C? 100nF
+Added Member To Class: ClassName=Display Member=Component Q? SMBT2222A
+Added Member To Class: ClassName=Display Member=Component Q? SMBT2222A
+Added Member To Class: ClassName=Display Member=Component Q? SMBT2222A
+Added Member To Class: ClassName=Display Member=Component R? 1K
+Added Member To Class: ClassName=Display Member=Component R? 1K
+Added Member To Class: ClassName=Display Member=Component R? 10k
+Added Member To Class: ClassName=Display Member=Component R? 1K
+Added Member To Class: ClassName=Display Member=Component R? 10k
+Added Member To Class: ClassName=Display Member=Component R? 10k
+Added Member To Class: ClassName=Display Member=Component R? 1K
