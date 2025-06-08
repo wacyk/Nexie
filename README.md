@@ -7,7 +7,7 @@ Progress:
 ##### Block Diagram ✅ 
 ##### SCH & PCB 🕓60%
 #### HW fast test Micropython script:
-```
+``` python
 import os
 import math
 import struct
