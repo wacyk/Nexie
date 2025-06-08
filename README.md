@@ -33,6 +33,7 @@ def make_tone(rate, bits, frequency):
 
 def random_color():
     return (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
+
 # ======= BOARD CONFIGURATION =======
 SCK_PIN = 32 # I2S MAX98357A
 WS_PIN = 25 
@@ -46,7 +47,6 @@ FORMAT = I2S.MONO
 SAMPLE_RATE_IN_HZ = 44000
 BUFFER_LENGTH_IN_BYTES = 2000
 # ======= AUDIO CONFIGURATION =======
-
 audio_out = I2S(
     I2S_ID,
     sck=Pin(SCK_PIN),
@@ -59,11 +59,7 @@ audio_out = I2S(
     ibuf=BUFFER_LENGTH_IN_BYTES,
 )
 
-
-
 np = neopixel.NeoPixel(machine.Pin(p), n)
-
-
 
 print("==========  START PLAYBACK ==========")
 
@@ -89,6 +85,4 @@ except (KeyboardInterrupt, Exception) as e:
 # cleanup
 audio_out.deinit()
 print("Done")
-
-
 ```
